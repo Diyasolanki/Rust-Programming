@@ -1,0 +1,1 @@
+In Rust, variable names should follow snake_case (lowercase with underscores) by convention. So, firstNm is not invalid, but it does not follow Rust’s naming convention.
