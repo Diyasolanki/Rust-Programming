@@ -5,7 +5,7 @@
 <p>
 1. Install Rust
 If you haven't installed Rust yet, use rustup:
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+🔗 https://www.rust-lang.org/tools/install
 
 2. Verify the installation:
 rustc --version
