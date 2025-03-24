@@ -1,6 +1,6 @@
-<h4>Rust Programming<h4>
+<h3>Rust Programming<h3>
   
-<h6>Rust is a systems programming language known for its memory safety, performance, and concurrency. It is used in various domains, including operating systems, web services, embedded systems, and blockchain.</h6>
+<h4>Rust is a systems programming language known for its memory safety, performance, and concurrency. It is used in various domains, including operating systems, web services, embedded systems, and blockchain.</h4>
 
 <p>
 1. Install Rust
