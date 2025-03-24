@@ -1,14 +1,6 @@
 <h4>Rust Programming<h4>
   
-<p>Rust is a systems programming language known for its memory safety, performance, and concurrency. It is used in various domains, including operating systems, web services, embedded systems, and blockchain.</p>
-
-
-<h5>Rust Structure</h5>
-├── src/          # Source code files
-├── target/       # Compiled files (ignored in Git)
-├── Cargo.toml    # Rust project configuration
-├── Cargo.lock    # Dependency lock file (ignored in Git for libraries)
-└── README.md     # Project documentation
+<h6>Rust is a systems programming language known for its memory safety, performance, and concurrency. It is used in various domains, including operating systems, web services, embedded systems, and blockchain.</h6>
 
 <p>
 1. Install Rust
